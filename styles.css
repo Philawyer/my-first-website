@@ -3,7 +3,7 @@
         text-align: center;
       }
       h2 {
-        color: green;
+        color: brown;
         font-style: italic;
         text-align: center;
       }
@@ -13,3 +13,9 @@
       ul {
         line-height: 40px;
       }
+h1  {
+    .author {
+        color: red;
+
+    }
+}
